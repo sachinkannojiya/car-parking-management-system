@@ -14,6 +14,7 @@ class car
 	void input()
 	{
 		system("CLS");
+		
 			int d;
 		cout<<"\n\n\t\tEnter the name of driver : ";
 		cin>>dname;
